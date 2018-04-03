@@ -1,2 +1,2 @@
 # UpsetHub
-A hub for all your games that reduces space on your hard-drive.
+A HUB for all your Game Launchers to reduce space on your Hard-Drive.
