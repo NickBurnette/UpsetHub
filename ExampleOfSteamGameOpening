@@ -21,4 +21,112 @@ C:\Program Files (x86)\Steam>start Steam.exe
 
 C:\Program Files (x86)\Steam>Start steam://rungameid/578080
 
-C:\Program Files (x86)\Steam>
+C:\Program Files (x86)\Steam>Start steam://rungameid/578080
+
+C:\Program Files (x86)\Steam>Start steam://rungameid/578080
+
+C:\Program Files (x86)\Steam>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 5C80-3938
+
+ Directory of C:\Program Files (x86)\Steam
+
+04/03/2018  10:34 PM    <DIR>          .
+04/03/2018  10:34 PM    <DIR>          ..
+04/01/2018  06:45 PM                 0 .crash
+04/03/2018  10:34 PM    <DIR>          appcache
+03/29/2018  05:16 PM    <DIR>          bin
+04/03/2018  10:33 PM    <DIR>          config
+03/21/2018  04:42 PM    <DIR>          controller_base
+03/26/2018  06:33 PM           377,632 crashhandler.dll
+03/22/2018  09:01 PM           377,632 crashhandler.dll.old
+03/26/2018  06:33 PM           422,176 crashhandler64.dll
+06/20/2017  02:38 AM           124,440 CSERHelper.dll
+08/21/2012  05:26 AM         3,231,696 d3dcompiler_46.dll
+10/26/2012  12:34 AM         3,873,264 d3dcompiler_46_64.dll
+03/29/2007  04:44 PM         1,039,192 dbghelp.dll
+03/31/2018  11:18 PM    <DIR>          depotcache
+01/30/2018  01:58 PM    <DIR>          drivers
+02/02/2018  01:22 PM    <DIR>          dumps
+03/24/2018  09:55 PM    <DIR>          friends
+03/26/2018  06:33 PM         1,177,376 GameOverlayRenderer.dll
+04/03/2018  10:34 PM            11,082 GameOverlayRenderer.log
+03/26/2018  06:33 PM         1,415,456 GameOverlayRenderer64.dll
+03/26/2018  06:33 PM           383,264 GameOverlayUI.exe
+04/03/2018  10:34 PM               407 GameOverlayUI.exe.log
+04/03/2018  10:34 PM               632 GameOverlayUI.exe.log.last
+03/21/2018  04:42 PM    <DIR>          graphics
+01/30/2018  02:10 PM    <DIR>          html5app
+08/31/2016  09:02 PM         1,563,936 icui18n.dll
+08/31/2016  09:02 PM         1,195,296 icuuc.dll
+12/19/2017  09:43 PM         5,137,696 libavcodec-57.dll
+12/19/2017  09:43 PM           695,584 libavformat-57.dll
+12/19/2017  09:43 PM           351,520 libavresample-3.dll
+12/19/2017  09:43 PM           847,136 libavutil-55.dll
+12/19/2017  09:43 PM           783,648 libswscale-4.dll
+05/19/2014  03:38 AM           875,552 libx264-142.dll.crypt
+05/19/2014  03:38 AM                32 libx264-142.dll.md5
+03/25/2018  04:58 PM    <DIR>          logs
+01/30/2018  02:02 PM    <DIR>          music
+07/04/2016  06:17 PM           266,560 openvr_api.dll
+03/29/2018  05:16 PM    <DIR>          package
+03/29/2018  05:16 PM    <DIR>          public
+03/29/2018  05:16 PM    <DIR>          resource
+01/10/2018  10:05 PM           784,672 SDL2.dll
+03/24/2018  09:55 PM    <DIR>          servers
+01/30/2018  02:10 PM    <DIR>          skins
+01/30/2018  02:10 PM             2,048 ssfn27603201642186109
+01/30/2018  02:10 PM    <DIR>          steam
+03/26/2018  06:33 PM           420,128 Steam.dll
+03/26/2018  06:33 PM         3,198,752 Steam.exe
+03/22/2018  09:01 PM         3,198,752 Steam.exe.old
+02/13/2014  10:04 PM         2,882,984 Steam2.dll
+03/25/2018  05:46 PM    <DIR>          steamapps
+03/26/2018  06:33 PM        12,022,560 steamclient.dll
+03/26/2018  06:33 PM        14,650,944 steamclient64.dll
+03/26/2018  06:33 PM           574,240 steamerrorreporter.exe
+03/26/2018  06:33 PM           653,088 steamerrorreporter64.exe
+03/26/2018  06:33 PM           121,632 SteamOverlayVulkanLayer.dll
+02/16/2016  02:55 PM               478 SteamOverlayVulkanLayer.json
+03/26/2018  06:33 PM           146,208 SteamOverlayVulkanLayer64.dll
+02/16/2016  02:53 PM               480 SteamOverlayVulkanLayer64.json
+03/26/2018  06:33 PM        11,303,200 SteamUI.dll
+03/26/2018  06:33 PM         2,807,072 streaming_client.exe
+01/30/2018  01:58 PM    <DIR>          tenfoot
+12/24/2013  02:41 PM               405 ThirdPartyLegalNotices.css
+12/16/2013  08:27 PM            25,088 ThirdPartyLegalNotices.doc
+10/10/2017  03:34 PM           201,828 ThirdPartyLegalNotices.html
+03/26/2018  06:33 PM           315,680 tier0_s.dll
+03/26/2018  06:33 PM           381,216 tier0_s64.dll
+08/08/2016  05:33 PM           142,424 uninstall.exe
+01/30/2018  02:02 PM    <DIR>          userdata
+08/31/2016  09:02 PM         4,969,248 v8.dll
+03/26/2018  06:33 PM         2,631,968 video.dll
+03/26/2018  06:33 PM           314,656 vstdlib_s.dll
+03/26/2018  06:33 PM           471,840 vstdlib_s64.dll
+09/24/2015  07:52 PM           119,208 winh264.dll
+01/13/2012  02:20 PM           284,456 WriteMiniDump.exe
+              52 File(s)     86,776,464 bytes
+              23 Dir(s)  350,275,121,152 bytes free
+
+C:\Program Files (x86)\Steam>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Steam>cd steamapps\common
+
+C:\Program Files (x86)\Steam\steamapps\common>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 5C80-3938
+
+ Directory of C:\Program Files (x86)\Steam\steamapps\common
+
+03/25/2018  05:46 PM    <DIR>          .
+03/25/2018  05:46 PM    <DIR>          ..
+01/30/2018  03:26 PM    <DIR>          DisplayFusion
+04/03/2018  06:21 PM    <DIR>          PUBG
+01/30/2018  03:25 PM    <DIR>          Steamworks Shared
+               0 File(s)              0 bytes
+               5 Dir(s)  350,275,006,464 bytes free
+
+C:\Program Files (x86)\Steam\steamapps\common>
