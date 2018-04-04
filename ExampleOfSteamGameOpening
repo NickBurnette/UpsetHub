@@ -1,0 +1,24 @@
+Microsoft Windows [Version 10.0.16299.309]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Upset PC>cd\
+
+C:\>cd Program Files (x86)\Steam
+
+C:\Program Files (x86)\Steam>lr
+'lr' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Steam>run Steam.exe
+'run' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Steam>execute Steam.exe
+'execute' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Steam>start Steam.exe
+
+C:\Program Files (x86)\Steam>Start steam://rungameid/578080
+
+C:\Program Files (x86)\Steam>
